@@ -10,7 +10,7 @@ See [this article](https://containo.us/blog/solving-containous-jobs-b4a5cae04f3/
 $ docker run containous/jobs
 Mysticeti, where are you ? :'(
 ```
-Mysticeti?! What's that? It's a name for [Ballen whale](https://en.wikipedia.org/wiki/Baleen_whale).      
+Mysticeti?! What's that? It's a name for [Baleen whale](https://en.wikipedia.org/wiki/Baleen_whale).      
 Why are they looking for a whale?! Well, Docker's logo is a whale too, hm, a coincidence? (I don't think so).
 
 ## Image internals
